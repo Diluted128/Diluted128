@@ -9,5 +9,5 @@
 
 👔 [linkedin][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/wojciech-jacoszek
+[linkedin]: https://www.linkedin.com/in/wojciech-jacoszek-8b930a209
 
