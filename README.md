@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi I'm Wojtek :handshake:
 
-<!--
-**Diluted128/Diluted128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a student
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on 'Ketchumper' game
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on Java projects
+- ⚡ Fun fact: I haven't put any commit on Friday yet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👔 [linkedin][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/wojciech-jacoszek
+
