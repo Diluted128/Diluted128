@@ -1,12 +1,24 @@
-## Hi I'm Wojtek :handshake:
+````json
+{
+  "person": {
 
-### I'm a student
+    "name": "Wojciech",
+    "surname": "Jacoszek",
+    "education-status": "student",
 
-- 🔭 I’m currently working on code share platform. 
-- 🌱 I’m currently learning Java
-- 👯 I’m looking for collaboration on Java projects
+    "languages": ["java", "java-script", "c++"],
 
-👔 [linkedin][linkedin]
+    "technologies": ["Springboot", "React", "Postgresql", "GIT"],
 
-[linkedin]: https://www.linkedin.com/in/wojciech-jacoszek-8b930a209
+    "contact": {
+      "linkedin": "https://www.linkedin.com/in/wojciech-jacoszek-8b930a209",
+      "mail": "jacoszekwojciech@gmail.com"
+    }
+    
+  }
+}
+```` 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
