@@ -21,4 +21,5 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: FALSE
           SHOW_LOC_CHART: FALSE
           IGNORED_REPOS: FALSE
+          SHOW_SHORT_INFO: FALSE
   
