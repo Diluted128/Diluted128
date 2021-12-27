@@ -20,5 +20,49 @@
 ```` 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%207%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 210 Contributions in the Year 2021
+ > 
+> 📦 27.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
+🌆 Daytime    79 commits     ███████████░░░░░░░░░░░░░░   45.14% 
+🌃 Evening    68 commits     █████████░░░░░░░░░░░░░░░░   38.86% 
+🌙 Night      22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.57%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Diluted128/Diluted128/main/charts/bar_graph.png) 
+
+
+ Last Updated on 27/12/2021
 <!--END_SECTION:waka-->
 
