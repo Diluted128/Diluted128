@@ -6,9 +6,9 @@
     "surname": "Jacoszek",
     "education-status": "student",
 
-    "languages": ["java", "java-script", "c++"],
+    "languages": ["java"],
 
-    "technologies": ["Springboot", "React", "Postgresql", "GIT"],
+    "technologies": ["Springboot", "Postgresql", "GIT"],
 
     "contact": {
       "linkedin": "https://www.linkedin.com/in/wojciech-jacoszek-8b930a209",
